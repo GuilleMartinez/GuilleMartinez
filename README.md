@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him/His
 - 📝 If you want to know more about me, visit my [LinkedIn](https://ar.linkedin.com/in/guillermo-martinez-desarrollador-web) for more details about me. I'm open to connection, feedback and suggestions!
 
-<p style="text-align: center;"><img style="width: 100%" src="./src/coding.svg"> </p>
+<p style="text-align: center;"><img style="width: 90%;" src="developer.svg"> </p>

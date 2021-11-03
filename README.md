@@ -2,7 +2,7 @@
 
 ## About me 🤓
 
-- 🔭 I'm currently working as JavaScript mentor at [Coderhouse](https://ar.linkedin.com/school/coderhouse/ "Coderhouse") and [OSIsoft Pi System](https://www.osisoft.es/pi-system "OSISoft Pi System") specalist at [AESA (A-Evangelista SA)](https://ar.linkedin.com/company/aesa-a-evangelista-sa "AESA (A-Evangelista SA)")
+- 🔭 I'm currently working as [OSIsoft Pi System](https://www.osisoft.es/pi-system "OSISoft Pi System") specalist at [AESA (A-Evangelista SA)](https://ar.linkedin.com/company/aesa-a-evangelista-sa "AESA (A-Evangelista SA)")
 - 🌱 I’m currently learning React JS, Node JS and MongoDB.
 - 💬 Feel free to reach out to me for consulting, volunteering, job offer or just for some interesting discussion.
 - 📫 You can send me an <a href="mailto:gmartinezunpsjb@gmail.com" title="email">email 💌</a> I'll try to respond as soon as I can.
